@@ -9,7 +9,6 @@ Hello! I'm Divya Nallawar, a passionate and dedicated Data Science Master's stud
 - 💬 Ask me about 
   - Data Science & Machine Learning
   - LLMs & AI-driven Forecasting
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love Journalling, cooking.
 
