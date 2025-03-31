@@ -10,6 +10,9 @@ Hello! I'm Divya Nallawar, a passionate and dedicated Data Science Master's stud
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love Journalling, cooking.
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=divya8699&color=blue)
+
 #### 📫 Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/divya-nallawar/
 - **GitHub:** https://github.com/divya8699/
