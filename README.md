@@ -4,11 +4,9 @@
 ## 📜 About Me
 Hello! I'm Divya Nallawar, a passionate and dedicated Data Science Master's student at the University of Colorado, Boulder. With a background in Electronics and Telecommunication Engineering, I transitioned into data science to explore the vast potential of data-driven decision-making.
 
--🎓Currently Pursuing Masters' in Data Science
+- 🎓 Currently Pursuing Masters' in Data Science
 - 🌱 Currently exploring Time series analysis
-- 💬 Ask me about 
-  - Data Science & Machine Learning
-  - LLMs & AI-driven Forecasting
+- 💬 Ask me about - Data Science & Machine Learning; LLMs & AI-driven Forecasting
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love Journalling, cooking.
 
